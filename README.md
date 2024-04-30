@@ -42,5 +42,5 @@ Projeyi çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 Aşağıda uygulamanın bir ekran kaydını görebilirsiniz:
 
 <video width="640" height="360" controls>
-  <source src="screen_record.mp4" type="video/mp4">
+  <source src="screen-record.mp4" type="video/mp4">
 </video>
